@@ -1,0 +1,2 @@
+On October 22nd, @SmartAppleTech wrote an article for @AndyBronza  in which he theorized an Apple Watch-like home screen for the iPhone. I thought the designs shown looked pretty, and the GIF he posted showing interaction with the real Apple Watch home screen made me notice a lot of tiny little details on it, so I decided to give a try at programming it over the past couple of days in my free time. This is the result. I hope you guys like it!
+
